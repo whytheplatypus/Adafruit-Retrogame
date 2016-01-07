@@ -120,9 +120,9 @@ struct {
 	{  15,     KEY_LEFTCTRL },   // A/Fire/jump/primary
 	{   7,     KEY_LEFTALT  },   // B/Bomb/secondary
 	{  10,     KEY_ESC      },  //SELECT
-	{  27,     KEY_Z        },   // A/Fire/jump/primary
-	{  13,     KEY_X        },   // B/Bomb/secondary
-	{  5,     KEY_SPACE     },   // JUMP
+	{  23,     KEY_Z        },   // A/Fire/jump/primary
+	{   3,     KEY_X        },   // B/Bomb/secondary
+	{   5,     KEY_SPACE    },   // JUMP
 	// For credit/start/etc., use USB keyboard or add more buttons.
 	{  -1,     -1           } }; // END OF LIST, DO NOT CHANGE
 
